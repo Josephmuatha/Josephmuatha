@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ian Mutunga
 
-I'm an aspiring **Data Analyst** with a passion for turning data into actionable insights.
+I'm a **Data Analyst** with a passion for turning data into actionable insights.
 
 ---
 
