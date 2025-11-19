@@ -51,8 +51,7 @@ I'm a **Data Analyst** with a passion for turning data into actionable insights.
 
 - 📧 Email: [ianmutunga98@gmail.com](mailto:ianmutunga98@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/your-profile-name](https://www.linkedin.com/in/ian-mutunga/)
-- 🌐 Portfolio Website:(https://github.com/Josephmuatha)
-
+- 🌐 Portfolio Website:[(https://josephmuatha.github.io/ianmutunga.github.io/)](https://josephmuatha.github.io/ianmutunga.github.io/)
 ---
 
 ## 🎉 Fun Fact
